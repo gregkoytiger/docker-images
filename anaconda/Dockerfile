@@ -1,4 +1,4 @@
-FROM debian:7.4
+FROM python:2.7
 
 MAINTAINER Kamil Kwiek <kamil.kwiek@continuum.io>
 
